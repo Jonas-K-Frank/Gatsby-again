@@ -1,12 +1,16 @@
 import React from 'react'
+import Layout from '../components/Layout'
 
 export default function About() {
   return (
+   <Layout>
     <div>
-    <h1>About page</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius soluta rerum ab culpa necessitatibus quisquam provident! Dignissimos unde alias illo pariatur et reiciendis, similique ea mollitia ratione autem, sunt voluptates.</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius soluta rerum ab culpa necessitatibus quisquam provident! Dignissimos unde alias illo pariatur et reiciendis, similique ea mollitia ratione autem, sunt voluptates.</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius soluta rerum ab culpa necessitatibus quisquam provident! Dignissimos unde alias illo pariatur et reiciendis, similique ea mollitia ratione autem, sunt voluptates.</p>
+      <h1>Her er About</h1>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi quae veritatis eos earum sapiente vel facilis laboriosam ratione iure! Consequuntur, quibusdam distinctio enim dicta modi ipsa eaque eveniet sed est.</p>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi quae veritatis eos earum sapiente vel facilis laboriosam ratione iure! Consequuntur, quibusdam distinctio enim dicta modi ipsa eaque eveniet sed est.</p>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi quae veritatis eos earum sapiente vel facilis laboriosam ratione iure! Consequuntur, quibusdam distinctio enim dicta modi ipsa eaque eveniet sed est.</p>
     </div>
+  </Layout> 
   )
+  
 }
