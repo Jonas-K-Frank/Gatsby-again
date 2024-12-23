@@ -2,6 +2,7 @@
 title: The Dojo Cofee House
 stack: HTML and CSS
 slug: dojo-cofee-house
+date: 2024-05-01
 ---
 
 **This is some tekst**
