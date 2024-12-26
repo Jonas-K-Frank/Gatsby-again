@@ -3,6 +3,8 @@ title: The Dojo Cofee House
 stack: HTML and CSS
 slug: dojo-cofee-house
 date: 2024-05-01
+thumb: ../images/thumbs/Coffee.png
+featured: ../images/featured/Coffee-Banner.png
 ---
 
 **This is some tekst**

@@ -17,8 +17,8 @@ module.exports = {
 			options: {
 				defaults: {
 				  formats: [`auto`, `webp`],
-				  placeholder: `dominantColor`,
-				  quality: 50,
+				  placeholder: `blurred`,
+				  quality: 80,
 				  breakpoints: [750, 1080, 1366, 1920],
 				  backgroundColor: `transparent`,
 				  tracedSVGOptions: {},
@@ -53,6 +53,6 @@ module.exports = {
 		title: "Web Warrior",
 		description: "A page about warriors on the web",
 		copyright: "This site is copyrighed",
-		email: "me@somedomaine.com"
+		contact: "me@somedomaine.com"
 	},
 };
