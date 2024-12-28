@@ -4,7 +4,7 @@ stack: HTML and CSS
 slug: dojo-cofee-house
 date: 2024-05-01
 thumb: ../images/thumbs/Coffee.png
-featured: ../images/featured/Coffee-Banner.png
+featuredImg: ../images/featured/Coffee-banner.png
 ---
 
 **This is some tekst**
